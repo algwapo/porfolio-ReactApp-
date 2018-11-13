@@ -1,0 +1,298 @@
+
+.landing-grid {
+  background: #ffffff;  
+text-align: center;
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+
+.projects-grid {
+  display: flex;
+}
+
+
+.resume-right-col {
+  background: #27221F;
+  color: white;
+  padding: 2em;
+}
+
+
+
+.contact-body {
+  margin: auto;
+  position: fixed;
+  width: 100%;
+  height: 100%;
+  justify-content: center;
+  padding-top: 2em;
+}
+
+.contact-grid {
+  text-align: center;
+  justify-content: center;
+  width: 80%;
+  height: 550px;
+  background: white;
+  color: black;
+  margin-bottom: 20px;
+}
+
+.contact-grid h2 {
+  font-family: 'Anton', sans-serif;
+}
+
+.contact-grid p {
+  font-family: 'Oxygen', sans-serif;
+  font-weight: bold;
+}
+
+.contact-grid hr {
+  border-top: 5px dotted black;
+  width: 50%;
+  margin: auto;
+}
+
+.contact-list i {
+  font-size: 66px;
+  padding-right: 5rem;
+}
+
+
+
+.avatar-img {
+  height: 250px;
+  padding-top: 5em;
+}
+
+.banner-text {
+  background-color: black;
+  opacity: .8;
+  width: 75%;
+  margin: auto;
+  border-radius: 10px;
+}
+
+.banner-text h1 {
+  font-size: 66px;
+  font-weight: bold;
+  color: white;
+}
+
+.banner-text hr {
+  border-top: 5px dotted white;
+  width: 50%;
+  margin: auto;
+}
+
+.banner-text p {
+  color: white;
+  font-size: 20px;
+  padding: 1em;
+}
+
+.social-links {
+  display: flex;
+  justify-content: space-between;
+  width: 50%;
+  margin: auto;
+}
+
+.social-links i {
+  color: white;
+  font-size: 5em;
+  padding: 8px;
+}
+
+.header-color {
+  background: #48CBF7;  
+}
+
+
+.projects-grid {
+  display: flex;
+}
+
+
+.resume-right-col {
+  background: #27221F;
+  color: white;
+  padding: 2em;
+}
+
+
+
+.contact-body {
+  margin: auto;
+  position: fixed;
+  width: 100%;
+  height: 100%;
+  justify-content: center;
+  padding-top: 2em;
+}
+
+.contact-grid {
+  text-align: center;
+  justify-content: center;
+  width: 80%;
+  height: 550px;
+  background: white;
+  color: black;
+  margin-bottom: 20px;
+}
+
+.contact-grid h2 {
+  font-family: 'Anton', sans-serif;
+}
+
+.contact-grid p {
+  font-family: 'Oxygen', sans-serif;
+  font-weight: bold;
+}
+
+.contact-grid hr {
+  border-top: 5px dotted black;
+  width: 50%;
+  margin: auto;
+}
+
+.contact-list i {
+  font-size: 66px;
+  padding-right: 5rem;
+}
+
+
+
+
+.avatar-img {
+  height: 250px;
+  padding-top: 5em;
+}
+
+.banner-text {
+  background-color: #FAAE43;
+  opacity: .8;
+  width: 50%;
+  margin: auto;
+  border-radius: 10px;
+}
+
+.banner-text h1 {
+  font-size: 66px;
+  font-weight: bold;
+  text-align: center;
+  color: black;
+}
+
+.banner-text hr {
+  border-top: 5px white;
+  width: 50%;
+  margin: auto;
+}
+
+.banner-text p {
+  color: white;
+  font-size: 20px;
+  padding: 1em;
+  text-align: center;
+}
+
+.social-links {
+  display: flex;
+  justify-content: space-between;
+  width: 50%;
+  margin: auto;
+}
+
+.social-links i {
+  color: white;
+  font-size: 5em;
+  padding: 8px;
+}
+.Menu:nth-child(3){
+    background: red;
+
+}
+ul.Mainheader{
+  float: right;
+}
+.Mainheader > li{
+  float: right;
+
+}
+.ant-layout-header > ul{
+  width: 93%;
+  
+}
+.ant-layout-header{
+  background-color: #ffffff;
+}
+.contents{
+  width: 100%;
+}
+.contentbody{
+  padding-left: 50px;
+  padding-right: 50px;
+  padding-top: 50px;
+  padding-bottom: 50px;
+  margin-top: 64px;
+}
+@media(max-width: 767px){
+ .Mainheader{
+   display: none;
+ }
+ .banner-text {
+  background-color: #FAAE43;
+  opacity: .8;
+  width: 50%;
+  margin: auto;
+  border-radius: 10px;
+}
+.contentbody{
+  width: 100%;
+  padding: 0;
+  margin: 0;
+}
+.banner-text p {
+  color: white;
+  font-size: 12px;
+  padding: 1em;
+  text-align: center;
+}
+.contents{
+  width: 100%;
+  background-color: pink;
+}
+}
+
+@media(max-width: 767px){
+ .Mainheader{
+   display: none;
+ }
+ .banner-text {
+  background-color: #FAAE43;
+  opacity: .8;
+  width: 50%;
+  margin: auto;
+  border-radius: 10px;
+}
+.contentbody{
+  width: 100%;
+  padding: 0;
+  margin: 0;
+}
+.banner-text p {
+  color: white;
+  font-size: 12px;
+  padding: 1em;
+  text-align: center;
+}
+}
+
+#contentcenter{
+  text-align: center;
+  width: 80%;
+}
